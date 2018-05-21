@@ -24,12 +24,21 @@ ultimately improving Ara.
 # Motivation
 [motivation]: #motivation
 
-TODO
+The ARA platform and its protocols are open standards aimed to serve and be upheld by an active developer community. This document outlines a transparent and standardized process for submitting proposals to enhance the platform.
+
+AIPs will serve as the primary means of introducing new features, documenting design thought processes and decisions, and tracking community progress. They should follow a streamlined and coordinated method for communication necessary both to accomodate the variety of projects that are expected to use the platform and to improve their overall technical quality.
 
 # How To Submit a Proposal
 [submit]: #submit
 
-TODO
+The AIPs repository will have administrators responsible for maintaining the proposal workflow and upholding proposal standards. Importantly, these administrators do not make judgments based on a proposal's likelihood of acceptance, but rather on its level of completeness, adherence to the process, technical soundness, and document preparation. Administrators are expected to perform all work related to repository management, including active communication with proposal authors as well as pull request acceptance.
+
+Each AIP should strive to outline a single, focused responsibility. If a new idea entails multiple functional changes, each change should be documented in a separate AIP. It is better to err on the side of too narrowly describing a new proposal or idea than to describe it in a too broad or unfocused way. AIPs should describe ideas that are applicable to a substantial subset of the community. It may be helpful to gauge community interest and support on ARA's public forums—including Github issues, the ARA subreddit, and the ARA Telegram channel—before committing too much time to an AIP. In general, the more community interest and consensus there is around an AIP, the more likely it is to be ultimately accepted. 
+
+Each proposal should abide by the following procedure:
+
+1. Fork the arablocks/aips repository using git
+2. 
 
 # Details
 [reference-documentation]: #reference-documentation
