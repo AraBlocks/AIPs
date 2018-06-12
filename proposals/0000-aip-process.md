@@ -34,7 +34,7 @@ AIPs will serve as the primary means of introducing new features, documenting de
 
 The AIPs repository will have a Working Group (WG) responsible for maintaining the proposal workflow and upholding proposal standards. Importantly, the WG does not make judgments based on a proposal's likelihood of acceptance, but rather on its level of completeness, adherence to the process, technical soundness, and document preparation. The WG is expected to perform all work related to repository management, including active communication with proposal authors as well as merging pull requests.
 
-Each AIP must have a _champion_ who is responsible for vetting the idea, ensuring its feasibility and relevance to the community, and leading public discussions. It may be helpful for the _champion_ to gauge community interest and support on ARA's public forums—including Github issues, the ARA subreddit, and the ARA Telegram channel—before committing too much time to an AIP. In general, the more community interest and consensus there is around an AIP, the more likely it is to be ultimately accepted.
+Each AIP must have a _champion_ who is responsible for vetting the idea, ensuring its feasibility and relevance to the community, and leading public discussions. It may be helpful for the _champion_ to gauge community interest and support on ARA's public forums—including [Github issues][issues-1], the [ARA subreddit][subreddit-1], and the [ARA Telegram][telegram-1] channel—before committing too much time to an AIP. In general, the more community interest and consensus there is around an AIP, the more likely it is to be ultimately accepted.
 
 AIPs should strive to outline a single, focused responsibility. If a new idea entails multiple functional changes, each change should be documented in a separate AIP. It is better to err on the side of too narrowly describing a new proposal or idea than to describe it in a too broad or unfocused way. AIPs should describe ideas that are applicable to a substantial subset of the community.
 
@@ -47,6 +47,9 @@ Each proposal should abide by the following procedure:
 5. Once in `Draft` status, the AIP can be ammended with small changes, clarifications, and corrections through additional PRs. Large changes will warrent a `Superceding` proposal.
 6. When the AIP reaches a finalized state, a PR should be submitted to promote the status to `Active`. Again, the PR should not include any major changes, but may include small updates.
 
+[subreddit-1]: https://www.reddit.com/r/AraBlocks/
+[issues-1]: https://github.com/AraBlocks/AIPs/issues
+[telegram-1]: https://t.me/arablocks
 
 # Details
 [reference-documentation]: #reference-documentation
