@@ -202,12 +202,6 @@ partial proposals being submitted and then significantly revised, which places
 extra (time) burden on reviewers.
 
 
-# Drawbacks
-[drawbacks]: #drawbacks
-
-TODO
-
-
 # Background and References
 [references]: #references
 
@@ -252,9 +246,4 @@ Does "Active" status mean that implementation is *mandatory*, and that features
 *must* be implemented unless they are explicitly optional? How would this
 expectation be enforced for third-party software? This is expected to be
 clarified when concrete examples arise.
-
-# Changelog
-[changelog]: #changelog
-
-TODO
 
