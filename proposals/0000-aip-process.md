@@ -1,5 +1,5 @@
 
-Title: **AIP-0000: The Ara Improvement Proposal Process**
+Title: **AIP-0000: The ARA Improvement Proposal Process**
 
 Short Name: `0000-aip-process`
 
@@ -15,10 +15,10 @@ Authors: TBD
 # Summary
 [summary]: #summary
 
-The Ara Improvement Proposal ("AIP") process is inspired by the DEP
+The ARA Improvement Proposal ("AIP") process is inspired by the DEP
 process outlined by the open source Dat project. It is how consensus
 around technical enhancements and organizational process can be reached
-ultimately improving Ara.
+ultimately improving ARA.
 
 
 # Motivation
@@ -66,7 +66,7 @@ AIPs should have a type:
 * **Informative** for describing conventions, design patterns, existing norms,
   special considerations, etc.
 
-The status of a AIP can be:
+The status of an AIP can be:
 
 * **Work in progress (WIP)**: The idea has gained significant community support and is being prepared for `Draft` review.
 * **Draft**: PR has been merged and a number assigned, but additional time is
@@ -145,7 +145,7 @@ governance process.
 By no means should working group members be the only people reviewing or giving
 feedback on proposals.
 
-When deciding on Draft status, at least one WG member must review the entire
+When deciding on `Draft` status, at least one WG member must review the entire
 proposal in detail, give feedback, and give informed approval. If no detailed
 review takes place in the fixed time window, the default is to close (reject)
 until a member is willing to commit to review. Any WG member can request
@@ -162,7 +162,7 @@ block. This is referred to as the "complete consensus" model.
 
 For all other status changes, at least one WG member must vouch for or approve
 the change ("loose consensus"). If there is unambiguous consensus (or, eg, a
-AIP is documenting already adopted practice), a AIP can move directly to Active
+AIP is documenting already adopted practice), an AIP can move directly to Active
 status (following the "complete consensus" process).
 
 In all cases, if there is a deadlock (a block can not be overcome after
@@ -182,17 +182,17 @@ very quickly.
 [rationale]: #rationale
 
 In the design space of RFC processes, there are two decision points determining
-the formality and maturity of accepted standards. The first is, does draft
+the formality and maturity of accepted standards. The first is, does `Draft`
 status mean *could* be implemented, or *has* been implemented? We chose
-"could". Secondly, for active (or "final") status, is the proposal *expected*
+"could". Secondly, for `Active` (or `Final`) status, is the proposal *expected*
 to be dominant in the wild, or *is it already* dominant in the wild? We chose
 "expected". In both cases we are emphasizing clarification and stabilization of
 new ideas, as opposed to enforcing interoperability of competing formulations
 of the same idea. In short, we expect AIPs to lead (rather than tail)
 implementation.
 
-Time limits and default outcomes are used to prevent proposals could get stuck
-in an ambiguous indefinite state anywhere along the process. "Draft" status is
+Time limits and default outcomes are used to prevent proposals from getting stuck
+in an ambiguous indefinite state anywhere along the process. `Draft` status is
 considered a stable state to linger in.
 
 Setting expectations for "completeness" of proposals, having an editor quickly
@@ -236,14 +236,13 @@ designing the AIP process:
 # Unresolved questions
 [unresolved]: #unresolved-questions
 
-How mutable should "Draft" Standards AIPs be over time? What about
+How mutable should `Draft` Standards AIPs be over time? What about
 Informational AIPs? Should there be an additional status ("Living"?) for AIPs
 that are expected to evolve, or is this against the whole philosophy of having
 specific stable documents to reference? This is expected to be clarified while
-this AIP itself is in Draft status.
+this AIP itself is in `Draft` status.
 
-Does "Active" status mean that implementation is *mandatory*, and that features
+Does `Active` status mean that implementation is *mandatory*, and that features
 *must* be implemented unless they are explicitly optional? How would this
 expectation be enforced for third-party software? This is expected to be
 clarified when concrete examples arise.
-
