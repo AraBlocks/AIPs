@@ -1,15 +1,15 @@
 
-Title: **AIP-0000: The ARA Improvement Proposal Process**
+Title: **AIP-0001: The ARA Improvement Proposal Process**
 
-Short Name: `0000-aip-process`
+Short Name: `0001-aip-process`
 
 Type: Process
 
-Status: Draft (as of 2018-06-12)
+Status: Active (as of 2018-06-12)
 
-Github PR: [Draft](https://github.com/arablocks/AIPs/pull/2)
+Github PR: [Closed](https://github.com/arablocks/AIPs/pull/2)
 
-Authors: TBD
+Authors: Eric Jiang, Joseph Werle
 
 
 # Summary
