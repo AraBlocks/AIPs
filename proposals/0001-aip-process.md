@@ -1,5 +1,5 @@
 
-Title: **AIP-0000: The ARA Improvement Proposal Process**
+Title: **AIP-0000: The Ara Improvement Proposal Process**
 
 Short Name: `0000-aip-process`
 
@@ -15,16 +15,16 @@ Authors: TBD
 # Summary
 [summary]: #summary
 
-The ARA Improvement Proposal ("AIP") process is inspired by the DEP
+The Ara Improvement Proposal ("AIP") process is inspired by the DEP
 process outlined by the open source Dat project. It is how consensus
 around technical enhancements and organizational process can be reached
-ultimately improving ARA.
+ultimately improving Ara.
 
 
 # Motivation
 [motivation]: #motivation
 
-The ARA platform and its protocols are open standards aimed to serve and be upheld by an active developer community. This document outlines a transparent and standardized process for submitting proposals to enhance the platform.
+The Ara platform and its protocols are open standards aimed to serve and be upheld by an active developer community. This document outlines a transparent and standardized process for submitting proposals to enhance the platform.
 
 AIPs will serve as the primary means of introducing new features, documenting design thought processes and decisions, and tracking community progress. They should follow a streamlined and coordinated method for communication necessary both to accomodate the variety of projects that are expected to use the platform and to improve their overall technical quality.
 
@@ -34,7 +34,7 @@ AIPs will serve as the primary means of introducing new features, documenting de
 
 The AIPs repository will have a Working Group (WG) responsible for maintaining the proposal workflow and upholding proposal standards. Importantly, the WG does not make judgments based on a proposal's likelihood of acceptance, but rather on its level of completeness, adherence to the process, technical soundness, and document preparation. The WG is expected to perform all work related to repository management, including active communication with proposal authors as well as merging pull requests.
 
-Each AIP must have a _champion_ who is responsible for vetting the idea, ensuring its feasibility and relevance to the community, and leading public discussions. It may be helpful for the _champion_ to gauge community interest and support on ARA's public forums—including [Github issues][issues-1], the [ARA subreddit][subreddit-1], and the [ARA Telegram][telegram-1] channel—before committing too much time to an AIP. In general, the more community interest and consensus there is around an AIP, the more likely it is to be ultimately accepted.
+Each AIP must have a _champion_ who is responsible for vetting the idea, ensuring its feasibility and relevance to the community, and leading public discussions. It may be helpful for the _champion_ to gauge community interest and support on Ara's public forums—including [Github issues][issues-1], the [Ara subreddit][subreddit-1], and the [Ara Telegram][telegram-1] channel—before committing too much time to an AIP. In general, the more community interest and consensus there is around an AIP, the more likely it is to be ultimately accepted.
 
 AIPs should strive to outline a single, focused responsibility. If a new idea entails multiple functional changes, each change should be documented in a separate AIP. It is better to err on the side of too narrowly describing a new proposal or idea than to describe it in a too broad or unfocused way. AIPs should describe ideas that are applicable to a substantial subset of the community.
 
